@@ -9,4 +9,6 @@ This repository belongs my java course
   <img src="https://cloud.githubusercontent.com/assets/8475952/16570633/c6c53aa6-425e-11e6-8eca-25da673b8776.png" height="700"/>
 </p>
 <p>when we see it's output in a .txt file </p>
+<h1>Usefull links</h1>
+<a href="https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms">For more information about the algorithm!</a>
 
